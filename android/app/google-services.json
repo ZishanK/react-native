@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009024537055",
+    "firebase_url": "https://chipin-b3989.firebaseio.com",
+    "project_id": "chipin-b3989",
+    "storage_bucket": "chipin-b3989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009024537055:android:2a1a162cfe07c670",
+        "android_client_info": {
+          "package_name": "id.chipin.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009024537055-977fosa5trm2ehs1j2q2jjefqo1qlsjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs-mpf8Xe6heOoI3q7JNL3ItGw80NHScY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009024537055-977fosa5trm2ehs1j2q2jjefqo1qlsjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
